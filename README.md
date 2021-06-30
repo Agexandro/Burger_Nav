@@ -1,5 +1,5 @@
 # Burger_Nav
 
-Una barra de navegación responsive con animación
+Animated burger navbar! :D
 
 ------------[DEMO](https://agexandro.github.io/Burger_Nav)-------------
